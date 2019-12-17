@@ -1,13 +1,10 @@
 # GPS-LOGGER
 
-Pre-requesites writing NMEA log on the UART of your systems. 
+# Pre-Requisites
+
+Writing NMEA log on the UART of your systems:
+Frame read on COM Port=> GPS: $GPRMC,142752.00,A,4514.25578,N,00021.00937,E,0.000,,171219,,,A*7D
 Gps-Logger is a usefull app to make log from your embbedded gps.
-
-## Installation
-
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install.
-
-
 
 ## Usage
 

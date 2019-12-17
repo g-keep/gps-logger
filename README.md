@@ -1,6 +1,6 @@
 # GPS-LOGGER
 
-Gps-Logger is a Python app that read NMEA Frame from the serial port and write the decoded frame into a json file.
+Gps-Logger is a usefull app to make log from your embbedded gps chip.
 
 ## Installation
 

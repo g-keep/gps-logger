@@ -1,6 +1,7 @@
 # GPS-LOGGER
 
-Gps-Logger is a usefull app to make log from your embbedded gps chip.
+Pre-requesites writing NMEA log on the UART of your systems. 
+Gps-Logger is a usefull app to make log from your embbedded gps.
 
 ## Installation
 

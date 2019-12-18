@@ -8,7 +8,7 @@ Gps-Logger is a usefull app to make log from your embbedded gps.
 
 ## Usage
 
-python gps-logger.py
+python gps-logger.py [COM NUMBER]
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
